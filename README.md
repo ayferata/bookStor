@@ -1,5 +1,5 @@
 # bookStor
-public class Book implements Comparable<Book> {
+public class Book implements Comparable Book {
     private String name;
     private int pageNumber;
     private String authorName;
